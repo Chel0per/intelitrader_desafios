@@ -1,0 +1,14 @@
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Criptografia_navio\bin\Debug\net7.0\Criptografia_navio.exe
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Criptografia_navio\bin\Debug\net7.0\Criptografia_navio.deps.json
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Criptografia_navio\bin\Debug\net7.0\Criptografia_navio.runtimeconfig.json
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Criptografia_navio\bin\Debug\net7.0\Criptografia_navio.dll
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Criptografia_navio\bin\Debug\net7.0\Criptografia_navio.pdb
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Criptografia_navio\obj\Debug\net7.0\Criptografia_navio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Criptografia_navio\obj\Debug\net7.0\Criptografia_navio.AssemblyInfoInputs.cache
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Criptografia_navio\obj\Debug\net7.0\Criptografia_navio.AssemblyInfo.cs
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Criptografia_navio\obj\Debug\net7.0\Criptografia_navio.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Criptografia_navio\obj\Debug\net7.0\Criptografia_navio.dll
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Criptografia_navio\obj\Debug\net7.0\refint\Criptografia_navio.dll
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Criptografia_navio\obj\Debug\net7.0\Criptografia_navio.pdb
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Criptografia_navio\obj\Debug\net7.0\Criptografia_navio.genruntimeconfig.cache
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Criptografia_navio\obj\Debug\net7.0\ref\Criptografia_navio.dll

@@ -1,0 +1,14 @@
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Livro_de_ofertas\bin\Debug\net7.0\Livro_de_ofertas.exe
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Livro_de_ofertas\bin\Debug\net7.0\Livro_de_ofertas.deps.json
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Livro_de_ofertas\bin\Debug\net7.0\Livro_de_ofertas.runtimeconfig.json
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Livro_de_ofertas\bin\Debug\net7.0\Livro_de_ofertas.dll
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Livro_de_ofertas\bin\Debug\net7.0\Livro_de_ofertas.pdb
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Livro_de_ofertas\obj\Debug\net7.0\Livro_de_ofertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Livro_de_ofertas\obj\Debug\net7.0\Livro_de_ofertas.AssemblyInfoInputs.cache
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Livro_de_ofertas\obj\Debug\net7.0\Livro_de_ofertas.AssemblyInfo.cs
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Livro_de_ofertas\obj\Debug\net7.0\Livro_de_ofertas.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Livro_de_ofertas\obj\Debug\net7.0\Livro_de_ofertas.dll
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Livro_de_ofertas\obj\Debug\net7.0\refint\Livro_de_ofertas.dll
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Livro_de_ofertas\obj\Debug\net7.0\Livro_de_ofertas.pdb
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Livro_de_ofertas\obj\Debug\net7.0\Livro_de_ofertas.genruntimeconfig.cache
+C:\Users\Marcelo\repos\Chashtag\Intelitrader\Livro_de_ofertas\obj\Debug\net7.0\ref\Livro_de_ofertas.dll
